@@ -305,6 +305,8 @@ public class MainActivity extends AppCompatActivity {
 
 ![image](https://github.com/user-attachments/assets/70f445fb-e42b-4db1-a4c2-c3f54b67017f)
 
+
+
 ## RESULT
 
 The application was successfully developed to add animations (move, blink, fade, clockwise, zoom, and slide) to an ImageView. Upon interacting with the UI, the animations are applied as expected.
